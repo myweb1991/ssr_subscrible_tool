@@ -5,5 +5,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrDHljp/nlJ9JUCIsDQogICJhZGQiOiAi
 
 
 
-vmess://bm9uZTo1N2UwY2I0ZC1lYWU1LTQ4ZWMtODA5MS0xNDlkYzJiMzA5ZTBAcmFpbGd1bi5jbGFzaC5pbTo0NDM=?remarks=电报群https://t.me/iShareTG&obfsParam=clash.im&path=/s/abfe081.fm.apple.com:22285&obfs=websocket&tls=1&allowInsecure=1
-vmess://bm9uZTo1N2UwY2I0ZC1lYWU1LTQ4ZWMtODA5MS0xNDlkYzJiMzA5ZTBAMTJjMjI3MWUwZTBkZmMxYTU5MzI1MWE0NTc2MzRmYjEtMTA4OTE0MTk2My5hcC1ub3J0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbTo0NDM=?remarks=电报群https://t.me/iShareTG&obfsParam=clash.im&path=/s/abfe081.os.apple.com:22285&obfs=websocket&tls=1&allowInsecure=1
+vmess://bm9uZTo1N2UwY2I0ZC1lYWU1LTQ4ZWMtODA5MS0xNDlkYzJiMzA5ZTBAcmFpbGd1bi5jbGFzaC5pbTo0NDM=?remarks=https://t.me/iShareTG&obfsParam=clash.im&path=/s/abfe081.fm.apple.com:22285&obfs=websocket&tls=1&allowInsecure=1
+vmess://bm9uZTo1N2UwY2I0ZC1lYWU1LTQ4ZWMtODA5MS0xNDlkYzJiMzA5ZTBAMTJjMjI3MWUwZTBkZmMxYTU5MzI1MWE0NTc2MzRmYjEtMTA4OTE0MTk2My5hcC1ub3J0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbTo0NDM=?remarks=https://t.me/iShareTG&obfsParam=clash.im&path=/s/abfe081.os.apple.com:22285&obfs=websocket&tls=1&allowInsecure=1
